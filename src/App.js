@@ -67,7 +67,7 @@ export default function Layout({ children, home }) {
       <div id="home" className="homepage">
         <br></br>
         <img
-          src="https://lh3.googleusercontent.com/Zc_cLDwXBD6WVeQcz0fWC60ZLvy0RX3X1Ca9dHvPDPXU-epPYnLx3hdkzn98nWvwRirvHrFnG4T95Z1wqxOLkThKVfUDn0bWlZjle2eEdB7yGaVG4TmZVUD3WQObeWj7Xhz1jctoBLo3h75fkA8eI8-ognuzr0njlCmKcmLOvIimdMq_MaI9IiLmzAtIZPZHAAqV2t6rMPyKyXjskk3EziQJnWnCG3XMJnFY_Y-v0A1uhFH4nqWIB0yKfN4B19YnsTb_diMnhkbLYexgevgWU8EqAMfQGFCRogeNc8euuYBwTp9PnlnUUe6u0WzWymzg17FWQtnoo_RqiDnHRnbgqYGx0BYzaif-Sv1O4LktISAlhkjAgUFo20j_PwsKZc_EnFSal1-wMsJ6SFyZX3XY0l62lNjDTxkLndaNM4k60BKR1rik15jOpkiimAs-rAf53sEHScaSNowKHrPXj2MEljWmIZzuxFWNRZQw6jvKT7ZkZia2ZwoDtWvpqxmv4sK2TCeFlf0ob47Zz9jEeGeN0kHjEfRi0IbTfmefTOBwnAPOd12qNU4TtWZZLBMd4-c_IxrAWIZy4xlOYRINq7NFR1dW7bd4hw0Zb4sIes6qWgKWkQ6KELQZTBbwSdbcSSJPQpjkwb3bitD0qElntiM_L6h8iBSKrgmiFl8YJ6WEOze-wVDTYtcwiuaYPX6P=w692-h921-no?authuser=0"
+          src="https://lh3.googleusercontent.com/tQ3uTUIriTD7QgF88J1EEzERQGphRcNxee6Ke23jQZOm600QmgKC2urPdZZ1nSlPByYLBuHjaXbddzRV7XM64LYwaXJCLTrlzW968dOuzgja0psxmlj-VJV57OM3L9KSXiDiohHZCg=w1920-h1080"
           className="headerHomeImage borderCircle"
           alt={name}
         />
@@ -82,3 +82,6 @@ export default function Layout({ children, home }) {
     </div>
   )
 }
+
+
+
