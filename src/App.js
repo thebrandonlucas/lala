@@ -12,7 +12,7 @@ export default function Layout({ children, home }) {
   const [time, setTime] = useState('')
 
   useEffect(() => {
-    var startDateTime = new Date(2019, 10, 6, 23, 59, 59, 0); // YYYY (M-1) D H m s ms (start time and date from DB)
+    var startDateTime = new Date(2019, 9, 6, 23, 59, 59, 0); // YYYY (M-1) D H m s ms (start time and date from DB)
     var startStamp = startDateTime.getTime();
 
     var newDate = new Date();
